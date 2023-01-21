@@ -27,12 +27,12 @@ Esse projeto foi desenvolvido com base no conhecimento adquirido durante as aula
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-<p><img alt="HTML" src=".github/html.svg" width="30">
-<img alt="CSS" src=".github/css.svg" width="30">
-<img alt="Javascript" src=".github/javascript.svg" width="30">
-<img alt="Git" src=".github/git.svg" width="30">
-<img alt="Github" src=".github/github.svg" width="30">
-<img alt="Figma" src=".github/figma.svg" width="30"></p>
+<p><img alt="HTML" src=".github/html.svg" width="40" align="center">&nbsp;&nbsp;
+<img alt="CSS" src=".github/css.svg" width="40" align="center">&nbsp;&nbsp;&nbsp;
+<img alt="Javascript" src=".github/javascript.svg" width="40" align="center">&nbsp;&nbsp;&nbsp;
+<img alt="Git" src=".github/git.svg" width="40" align="center">
+<img alt="Github" src=".github/icon-github.svg" width="60" align="center">
+<img alt="Figma" src=".github/figma.svg" width="40" align="center"></p>
 
 
 <br>
